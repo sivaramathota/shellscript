@@ -2,6 +2,8 @@
 
 NUMBER=$1
 
+# check greter than 20 or not
+
 if [ $NUMBER -gt 20 ]
 then
 
