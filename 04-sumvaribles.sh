@@ -7,4 +7,4 @@ PERSON2=$2
 
 SUM=$((PERSON1+PERSON2))
 
-echo "additinol two numbers: $SUM"
+echo "additinal two numbers: $SUM"
