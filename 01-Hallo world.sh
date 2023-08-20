@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "This shell script hello world script"
 
 PERSON1=Sivaram
