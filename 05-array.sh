@@ -1,7 +1,7 @@
 #!/bin/bash
 
-PERSONS = ("siva" "madhu" "kumar")
+PERSONS=("Siva" "Madhu" "Kumar")
 
 echo "First person: ${PERSONS[0]}"
 
-echo "First person: ${PERSONS[@]}"
+echo "All person: ${PERSONS[@]}"
