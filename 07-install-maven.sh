@@ -9,7 +9,7 @@ then
    exit 1
 fi
 
-yum install postfix -y
+yum install maven -y
 
 if [ $? -ne 0 ]
 then 
